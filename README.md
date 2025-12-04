@@ -6,3 +6,6 @@ List of resources for Meta Wearables developers! All you need to build apps for 
 
 # Documentation
 - [Wearables FAQ](https://developers.meta.com/wearables/faq/)
+
+# SDK
+- [Meta Wearables Device Access Toolkit for iOS](https://github.com/facebook/meta-wearables-dat-ios)
