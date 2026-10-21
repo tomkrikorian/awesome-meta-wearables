@@ -9,3 +9,6 @@ List of resources for Meta Wearables developers! All you need to build apps for 
 
 # SDK
 - [Meta Wearables Device Access Toolkit for iOS](https://github.com/facebook/meta-wearables-dat-ios)
+
+# Tools
+- [POVCut](https://github.com/hydope/povcut) — turn Ray-Ban Meta footage into vertical shorts with one command: AI moment detection, face-tracking crop, captions, HUD overlays, and official-API posting/scheduling for creators.
